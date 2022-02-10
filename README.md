@@ -26,8 +26,8 @@
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mewpk&show_icons=true&locale=en&layout=compact" alt="barwsirati" />&nbsp;
 </p>
   <div align="center">
-  <h1 align="left">✨ PROGRAMMING LANGUAGE :</h1>
-<p align="left">
+  <h1 align="center">✨ PROGRAMMING LANGUAGE</h1>
+<p align="center">
 
 
   <a href="https://www.cprogramming.com/" target="_blank">
@@ -65,10 +65,10 @@
     /> 
   </a>
   </p>
-  <h1 align="left">🌐 WEB APPLICATION DEVELOPMENT :</h1>
-  <h3 align="left">🔎 FRONT END :</h3>
+  <h1 align="center">🌐 WEB APPLICATION DEVELOPMENT :</h1>
+  <h3 align="center">🔎 FRONT END</h3>
   
-<p align="left">
+<p align="center">
    
   <a href="https://www.w3.org/html/" target="_blank">
     <img
@@ -122,8 +122,8 @@
     />
   </a>
   </p>
-  <h3 align="left">👻 BACK END :</h3>
-  <div align="left">
+  <h3 align="center">👻 BACK END</h3>
+  <div align="center">
     <a href="https://nodejs.org" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -158,8 +158,8 @@
   </a>
     
   </div>
-  <h3 align="left">🤖 ROBOT :</h3>
-  <div align="left">
+  <h3 align="center">🤖 ROBOT</h3>
+  <div align="center">
     <a href="https://www.arduino.cc/" target="_blank">
     <img
       src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
@@ -170,10 +170,10 @@
   </a>
     
   </div>
-  <h1 align="left">🏆 REWARD :</h1>
-    <p align="left">Robot-Sillapa 69th 🥇</p>
-  <p align="left">STEM Robotic at KMUTNB 🥉</p>
-  <p align="left">2nd Great Thinker Project 🥇🏆</p>
+  <h1 align="center">🏆 REWARD</h1>
+    <p align="center">Robot-Sillapa 69th 🥇</p>
+  <p align="center">STEM Robotic at KMUTNB 🥉</p>
+  <p align="center">2nd Great Thinker Project 🥇🏆</p>
 
  
 
