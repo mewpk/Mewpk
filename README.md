@@ -21,11 +21,16 @@
     />
      : 𝙢𝙚𝙬_𝙥𝙠𝙠 
   </a> </h1>
+  
 <img src="https://www.img.in.th/images/a85127a215371ad5dff079afc9482d4e.jpg" alt="a85127a215371ad5dff079afc9482d4e.jpg" border="0" />
 <p align="center">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mewpk&show_icons=true&locale=en&layout=compact" alt="barwsirati" />&nbsp;
 </p>
   <div align="center">
+  <h1 align="center">🏆 REWARD</h1>
+    <p align="center">Robot-Sillapa 69th 🥇</p>
+  <p align="center">STEM Robotic at KMUTNB 🥉</p>
+  <p align="center">2nd Great Thinker Project 🥇🏆</p>
   <h1 align="center">✨ PROGRAMMING LANGUAGE</h1>
 <p align="center">
 
@@ -170,13 +175,10 @@
   </a>
     
   </div>
-  <h1 align="center">🏆 REWARD</h1>
-    <p align="center">Robot-Sillapa 69th 🥇</p>
-  <p align="center">STEM Robotic at KMUTNB 🥉</p>
-  <p align="center">2nd Great Thinker Project 🥇🏆</p>
+  
 
  
-
+<br>
 <a href="https://discord.gg/UGjttTJDaR">
     <img src="https://img.shields.io/twitter/url?color=white&label=Discord&logo=Discord&style=for-the-badge&url=https%3A%2F%2Fdiscord.gg%2FUGjttTJDaR" />
   </a>
