@@ -4,7 +4,7 @@
   <a href="https://www.facebook.com/mewpkk" target="_blank">
     <img
       src="https://www.pngplay.com/wp-content/uploads/3/Blue-Facebook-Logo-Transparent-PNG.png"
-      alt="css3"
+      alt="facebook"
       width="40"
       height="40"
     />
@@ -14,7 +14,7 @@
    <a href="https://www.instagram.com/mew_pkk/" target="_blank">
     <img
       src="https://www.mmthailand.com/wp-content/uploads/2020/04/ig-icon.png"
-      alt="css3"
+      alt="instagram"
       width="40"
       height="40"
     />
@@ -65,6 +65,7 @@
   </p>
   <h1 align="left">🌐 WEB APPLICATION DEVELOPMENT :</h1>
   <h3 align="left">🔎 FRONT END :</h3>
+  
 <p align="left">
    
   <a href="https://www.w3.org/html/" target="_blank">
@@ -118,10 +119,62 @@
       height="40"
     />
   </a>
+  </p>
+  <h3 align="left">👻 BACK END :</h3>
+  <div align="left">
+    <a href="https://nodejs.org" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      alt="nodejs"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://expressjs.com" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+      alt="express"
+      width="40"
+      height="40"
+    />
+  </a>
+    <a href="https://www.mysql.com/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+      alt="mysql"
+      width="40"
+      height="40"
+    />
+  </a>
+     <a href="https://postman.com" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+      alt="postman"
+      width="40"
+      height="40"
+    />
+  </a>
+    
+  </div>
+  <h3 align="left">🤖 ROBOT :</h3>
+  <div align="left">
+    <a href="https://www.arduino.cc/" target="_blank">
+    <img
+      src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
+      alt="arduino"
+      width="40"
+      height="40"
+    />
+  </a>
+    
+  </div>
+  <h1 align="left">🏆 REWARD :</h1>
+    <p align="left">Robot-Sillapa 69th 🥇</p>
+  <p align="left">STEM Robotic at KMUTNB 🥉</p>
+  <p align="left">2nd Great Thinker Project 🥇🏆</p>
 
-  
  
-</p>
+
 <a href="https://discord.gg/UGjttTJDaR">
     <img src="https://img.shields.io/twitter/url?color=white&label=Discord&logo=Discord&style=for-the-badge&url=https%3A%2F%2Fdiscord.gg%2FUGjttTJDaR" />
   </a>
