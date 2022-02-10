@@ -1,6 +1,6 @@
 <h1 align="center">𝙆𝙈𝙄𝙏𝙇 : 𝘾𝙤𝙢𝙥𝙪𝙩𝙚𝙧 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧𝙞𝙣𝙜 💻</h1>
-<h1 align="center">🅵🅱 : 𝙈𝙚𝙬 𝙋𝙖𝙩𝙨𝙖𝙠𝙤𝙧𝙣 𝙏𝙝𝙤𝙣𝙜-𝙪𝙣</h1>
-<h1 align="center">🅸🅶 : 𝙢𝙚𝙬_𝙥𝙠𝙠 </h1>
+<h1 align="center">𝙁𝘽 : 𝙈𝙚𝙬 𝙋𝙖𝙩𝙨𝙖𝙠𝙤𝙧𝙣 𝙏𝙝𝙤𝙣𝙜-𝙪𝙣</h1>
+<h1 align="center"𝙄𝙂 : 𝙢𝙚𝙬_𝙥𝙠𝙠 </h1>
 <img src="https://www.img.in.th/images/a85127a215371ad5dff079afc9482d4e.jpg" alt="a85127a215371ad5dff079afc9482d4e.jpg" border="0" />
 <p align="center">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mewpk&show_icons=true&locale=en&layout=compact" alt="barwsirati" />&nbsp;
