@@ -22,7 +22,7 @@
      : 𝙢𝙚𝙬_𝙥𝙠𝙠 
   </a> </h1>
   
-<img src="https://www.img.in.th/images/a85127a215371ad5dff079afc9482d4e.jpg" alt="a85127a215371ad5dff079afc9482d4e.jpg" border="0" />
+<img src="https://www.img.in.th/images/a85127a215371ad5dff079afc9482d4e.jpg" alt="yea" border="0" />
 <p align="center">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mewpk&show_icons=true&locale=en&layout=compact" alt="barwsirati" />&nbsp;
 </p>
