@@ -1,4 +1,3 @@
-
 <h1 align="center">𝙆𝙈𝙄𝙏𝙇 : 𝘾𝙤𝙢𝙥𝙪𝙩𝙚𝙧 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧𝙞𝙣𝙜 💻</h1>
 <h1 align="center">
   <a href="https://www.facebook.com/mewpkk" target="_blank">
@@ -23,6 +22,7 @@
   </a> </h1>
   
 <img src="./1174643.png" alt="yea" border="0" />
+<img src="./1182008.png" alt="yea" border="0" />
 <p align="center">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mewpk&show_icons=true&locale=en&layout=compact" alt="barwsirati" />&nbsp;
 </p>
