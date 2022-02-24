@@ -40,24 +40,24 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
       alt="c"
-      width="40"
-      height="40"
+      width="80"
+      height="80"
     />
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
       alt="cplusplus"
-      width="40"
-      height="40"
+      width="80"
+      height="80"
     />
   </a>
   <a href="https://www.python.org" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
       alt="python"
-      width="40"
-      height="40"
+     width="80"
+      height="80"
     />
   </a>
     <a 
@@ -66,13 +66,13 @@
     <img 
          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
          alt="java"
-         width="40" 
-         height="40"
+         width="80"
+      height="80"
     /> 
   </a>
   </p>
   <h1 align="center">🌐 WEB APPLICATION DEVELOPMENT :</h1>
-  <h3 align="center">🔎 FRONT END</h3>
+  <h2 align="center">🔎 FRONT END</h2>
   
 <p align="center">
    
@@ -80,16 +80,16 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="html5"
-      width="40"
-      height="40"
+      width="80"
+      height="80"
     />
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
       alt="css3"
-      width="40"
-      height="40"
+     width="80"
+      height="80"
     />
   </a>
   <a
@@ -99,79 +99,79 @@
     <img
       src="https://i0.wp.com/www.duomimikry.de/wp-content/uploads/2016/03/js-logo.png?fit=500%2C500&ssl=1"
       alt="javascript"
-      width="40"
-      height="40"
+      width="80"
+      height="80"
     />
   </a>
   <a href="https://reactjs.org/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
       alt="react"
-      width="40"
-      height="40"
+     width="80"
+      height="80"
     />
   </a>
     <a href="https://vuejs.org/" target="_blank">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/512px-Vue.js_Logo_2.svg.png"
       alt="nextjs"
-      width="40"
-      height="40"
+     width="80"
+      height="80"
     />
   </a>
   <a href="https://nextjs.org/" target="_blank">
     <img
       src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg"
       alt="nextjs"
-      width="40"
-      height="40"
+      width="80"
+      height="80"
     />
   </a>
   </p>
-  <h3 align="center">👻 BACK END</h3>
+  <h2 align="center">👻 BACK END</h2>
   <div align="center">
     <a href="https://nodejs.org" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs"
-      width="40"
-      height="40"
+      width="80"
+      height="80"
     />
   </a>
   <a href="https://expressjs.com" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
       alt="express"
-      width="40"
-      height="40"
+      width="80"
+      height="80"
     />
   </a>
     <a href="https://www.mysql.com/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql"
-      width="40"
-      height="40"
+     width="80"
+      height="80"
     />
   </a>
      <a href="https://postman.com" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
       alt="postman"
-      width="40"
-      height="40"
+     width="80"
+      height="80"
     />
   </a>
     
   </div>
-  <h3 align="center">🤖 ROBOT</h3>
+  <h2 align="center">🤖 ROBOT</h2>
   <div align="center">
     <a href="https://www.arduino.cc/" target="_blank">
     <img
       src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
       alt="arduino"
-      width="40"
-      height="40"
+      width="80"
+      height="80"
     />
   </a>
     
@@ -181,9 +181,11 @@
  
 <br>
 <a href="https://discord.gg/UGjttTJDaR">
-    <img src="https://img.shields.io/twitter/url?color=white&label=Discord&logo=Discord&style=for-the-badge&url=https%3A%2F%2Fdiscord.gg%2FUGjttTJDaR" />
+    <img src="https://img.shields.io/twitter/url?color=white&label=Discord&logo=Discord&style=for-the-badge&url=https%3A%2F%2Fdiscord.gg%2FUGjttTJDaR" width="200"
+      height="60" />
   </a>
     <a href="https://www.youtube.com/channel/UCUu_s6qGQlWW2YVQeDD4CVw">
-    <img src="https://img.shields.io/twitter/url?color=white&label=Youtube&logo=Youtube&logoColor=red&style=for-the-badge&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCUu_s6qGQlWW2YVQeDD4CVw" /></a>
+    <img src="https://img.shields.io/twitter/url?color=white&label=Youtube&logo=Youtube&logoColor=red&style=for-the-badge&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCUu_s6qGQlWW2YVQeDD4CVw" width="200"
+      height="60"/></a>
     </div>
     
