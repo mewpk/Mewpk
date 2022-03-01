@@ -158,7 +158,7 @@
     
   <a href="https://expressjs.com" target="_blank">
     <img
-      src="https://cyberpanel.net/wp-content/uploads/2019/03/express-js-cyberpanel-1.jpeg"
+      src="https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lgyno4NC7rhy49BAEjN%2F-Lh14lb3LH4C886qWxYA%2F-Lh1DZeIUQennGd9RiHe%2FScreen%20Shot%202019-06-10%20at%2011.30.20%20AM.png?alt=media&token=784b79f6-81b5-4308-97a2-155afb9d496f"
       alt="express"
          width="120"
       height="60"
