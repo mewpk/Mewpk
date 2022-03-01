@@ -158,7 +158,7 @@
     
   <a href="https://expressjs.com" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+      src="https://cyberpanel.net/wp-content/uploads/2019/03/express-js-cyberpanel-1.jpeg"
       alt="express"
       width="80"
       height="80"
