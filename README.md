@@ -138,6 +138,15 @@
       height="80"
     />
   </a>
+    <a href="https://www.fullstackpython.com/flask.html" target="_blank">
+    <img
+      src="https://miro.medium.com/max/876/1*0G5zu7CnXdMT9pGbYUTQLQ.png"
+      alt="flask python"
+      width="80"
+      height="80"
+    />
+  </a>
+    
   <a href="https://expressjs.com" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
