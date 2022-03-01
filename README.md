@@ -160,8 +160,8 @@
     <img
       src="https://cyberpanel.net/wp-content/uploads/2019/03/express-js-cyberpanel-1.jpeg"
       alt="express"
-      width="80"
-      height="80"
+         width="120"
+      height="60"
     />
   </a>
     <a href="https://www.mysql.com/" target="_blank">
