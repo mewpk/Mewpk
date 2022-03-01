@@ -146,6 +146,15 @@
       height="80"
     />
   </a>
+     <a href="https://www.djangoproject.com/" target="_blank">
+    <img
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6CBenKrrjBxLYQfrXybgLWs036BoqkWRYUw&usqp=CAU"
+      alt="Django"
+      width="80"
+      height="80"
+    />
+  </a>
+    
     
   <a href="https://expressjs.com" target="_blank">
     <img
