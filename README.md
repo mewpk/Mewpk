@@ -140,7 +140,7 @@
   </a>
     <a href="https://www.fullstackpython.com/flask.html" target="_blank">
     <img
-      src="https://miro.medium.com/max/876/1*0G5zu7CnXdMT9pGbYUTQLQ.png"
+      src="https://miro.medium.com/max/875/1*Q5EUk28Xc3iCDoMSkrd1_w.png"
       alt="flask python"
       width="80"
       height="80"
