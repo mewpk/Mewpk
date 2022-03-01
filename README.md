@@ -150,8 +150,8 @@
     <img
       src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6CBenKrrjBxLYQfrXybgLWs036BoqkWRYUw&usqp=CAU"
       alt="Django"
-      width="100"
-      height="80"
+      width="120"
+      height="60"
     />
   </a>
     
