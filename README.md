@@ -1,4 +1,4 @@
-<div background-color="white">
+
   <h1 align="center">𝙆𝙈𝙄𝙏𝙇 : 𝘾𝙤𝙢𝙥𝙪𝙩𝙚𝙧 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧𝙞𝙣𝙜 💻</h1>
 <h1 align="center">
   <a href="https://www.facebook.com/mewpkk" target="_blank">
@@ -207,4 +207,4 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6sd7e2ikU4Yil9XbkAoRPEdKBE9kz0tQUEg&usqp=CAU" width="200"
       height="60"/></a>
     </div>
-   </div>
+
