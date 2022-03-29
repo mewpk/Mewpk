@@ -1,4 +1,5 @@
-<h1 align="center">𝙆𝙈𝙄𝙏𝙇 : 𝘾𝙤𝙢𝙥𝙪𝙩𝙚𝙧 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧𝙞𝙣𝙜 💻</h1>
+<div background-color="white">
+  <h1 align="center">𝙆𝙈𝙄𝙏𝙇 : 𝘾𝙤𝙢𝙥𝙪𝙩𝙚𝙧 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧𝙞𝙣𝙜 💻</h1>
 <h1 align="center">
   <a href="https://www.facebook.com/mewpkk" target="_blank">
     <img
@@ -199,11 +200,11 @@
  
 <br>
 <a href="https://discord.gg/UGjttTJDaR">
-    <img src="https://img.shields.io/twitter/url?color=white&label=Discord&logo=Discord&style=for-the-badge&url=https%3A%2F%2Fdiscord.gg%2FUGjttTJDaR" width="200"
-      height="60" />
+    <img src="https://logos-download.com/wp-content/uploads/2021/01/Discord_Logo-1.png" width="200"
+      height="60" margin-right="150px" />
   </a>
     <a href="https://www.youtube.com/channel/UCUu_s6qGQlWW2YVQeDD4CVw">
-    <img src="https://img.shields.io/twitter/url?color=white&label=Youtube&logo=Youtube&logoColor=red&style=for-the-badge&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCUu_s6qGQlWW2YVQeDD4CVw" width="200"
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6sd7e2ikU4Yil9XbkAoRPEdKBE9kz0tQUEg&usqp=CAU" width="200"
       height="60"/></a>
     </div>
-    
+   </div>
