@@ -122,7 +122,7 @@
   </a>
   <a href="https://nextjs.org/" target="_blank">
     <img
-      src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg"
+      src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png"
       alt="nextjs"
       width="80"
       height="80"
@@ -133,7 +133,7 @@
   <div align="center">
     <a href="https://nodejs.org" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"
       alt="nodejs"
       width="80"
       height="80"
@@ -141,7 +141,7 @@
   </a>
     <a href="https://www.fullstackpython.com/flask.html" target="_blank">
     <img
-      src="https://miro.medium.com/max/875/1*Q5EUk28Xc3iCDoMSkrd1_w.png"
+      src="https://www.seekpng.com/png/detail/875-8753366_flask-framework-logo-svg.png"
       alt="flask python"
       width="80"
       height="80"
@@ -204,7 +204,7 @@
       height="60" margin-right="150px" />
   </a>
     <a href="https://www.youtube.com/channel/UCUu_s6qGQlWW2YVQeDD4CVw">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6sd7e2ikU4Yil9XbkAoRPEdKBE9kz0tQUEg&usqp=CAU" width="200"
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" width="100"
       height="60"/></a>
     </div>
 
