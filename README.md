@@ -33,12 +33,12 @@
     <p align="center">Robot-Sillapa 69th 🥇</p>
   <p align="center">STEM Robotic at KMUTNB 🥉</p>
   <p align="center">2nd Great Thinker Project 🥇🏆</p>
-  <h1 align="center">✨ PROGRAMMING LANGUAGE</h1>
-<p align="center">
   <br><br>
   <img src="./1152975.jpg" alt="yea" border="0" />
-
-
+  <br><br>
+  <h1 align="center">✨ PROGRAMMING LANGUAGE</h1>
+<p align="center">
+  
   <a href="https://www.cprogramming.com/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
