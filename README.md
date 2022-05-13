@@ -25,7 +25,7 @@
 <img src="./1174643.png" alt="yea" border="0" />
 
 <p align="center">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mewpk&show_icons=true&locale=en&layout=compact" alt="barwsirati" />&nbsp;
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mewpk&show_icons=true&locale=en&layout=compact" />&nbsp;
 </p>
 <img src="./1182008.png" alt="yea" border="0" />
   <div align="center">
