@@ -26,6 +26,8 @@
 
 <p align="center">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mewpk&show_icons=true&locale=en&layout=compact" />&nbsp;
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mewpk&show_icons=true&theme=radical&hide=contribs,issues,stars,prs,"/>
 </p>
 <img src="./1182008.png" alt="yea" border="0" />
   <div align="center">
