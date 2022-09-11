@@ -104,6 +104,7 @@
           height="80"
         />
       </a>
+      <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="80" height="80"/> </a>
       <h1 align="left">🌐 WEB APPLICATION DEVELOPMENT :</h1>
       <h2  align="left">🔎 FRONT END</h2>
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
