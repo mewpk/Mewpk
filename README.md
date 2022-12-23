@@ -21,6 +21,16 @@
     />
      : 𝙢𝙚𝙬_𝙥𝙠𝙠 
   </a> </h1>
+  <h1 align="center">
+   <a href="https://www.linkedin.com/in/mewpk/" target="_blank" >
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png"
+      alt="instagram"
+      width="40"
+      height="40"
+    />
+     : PATSAKORN THOGNUN
+  </a> </h1>
   
 <img src="./1174643.png" alt="yea" border="0" />
 
