@@ -190,9 +190,10 @@
         />
       </a>
       <h2  align="left">👻 BACK END</h2>
+      <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="80" height="80"/> </a>
       <a href="https://expressjs.com" target="_blank" rel="noreferrer">
         <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+          src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png"
           alt="express"
           width="80"
           height="80"
@@ -342,7 +343,7 @@
         rel="noreferrer"
       >
         <img
-          src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
+          src="https://www.seekpng.com/png/detail/875-8753366_flask-framework-logo-svg.png"
           alt="flask"
           width="80"
           height="80"
@@ -383,7 +384,7 @@
         />
       </a><h2  align="left">📚 Static Site Generators</h2><a href="https://nextjs.org/" target="_blank" rel="noreferrer">
         <img
-          src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
+          src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png"
           alt="nextjs"
           width="80"
           height="80"
