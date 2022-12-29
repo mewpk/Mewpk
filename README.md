@@ -34,11 +34,11 @@
   <img src="./Cert Full Stack.png" alt="Cert Full Stack" border="0" />
 
 
-<p align="center">
+<!-- <p align="center">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mewpk&theme=radical&show_icons=true&locale=en&layout=compact" />&nbsp;
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=mewpk&show_icons=true&theme=radical&hide=contribs,issues,stars,prs,"/>
-</p>
+</p> -->
 <img src="./Cert Cybersecurity Red Team.jpg" alt="Cert Cybersecurity Red Team" border="0" />
   <div align="center">
   <h1 align="center">🏆 REWARD</h1>
