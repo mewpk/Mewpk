@@ -31,7 +31,7 @@
     />
      : 𝙋𝙖𝙩𝙨𝙖𝙠𝙤𝙧𝙣 𝙏𝙝𝙤𝙣𝙜-𝙪𝙣
   </a> </h1>
-  <img src="./Cert Full Stack.png" alt="Cert Full Stack" border="0" />
+<!--   <img src="./Cert Full Stack.png" alt="Cert Full Stack" border="0" /> -->
 
 
 <!-- <p align="center">
@@ -39,14 +39,14 @@
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=mewpk&show_icons=true&theme=radical&hide=contribs,issues,stars,prs,"/>
 </p> -->
-<img src="./Cert Cybersecurity Red Team.jpg" alt="Cert Cybersecurity Red Team" border="0" />
+<!-- <img src="./Cert Cybersecurity Red Team.jpg" alt="Cert Cybersecurity Red Team" border="0" /> -->
   <div align="center">
   <h1 align="center">🏆 REWARD</h1>
     <p align="center">Robot-Sillapa 69th 🥇</p>
   <p align="center">STEM Robotic at KMUTNB 🥉</p>
   <p align="center">2nd Great Thinker Project 🥇🏆</p>
   <br><br>
-  <img src="./1152975.jpg" alt="yea" border="0" />
+<!--   <img src="./1152975.jpg" alt="yea" border="0" /> -->
   <br><br>
 
  <h1 align="left">✨ PROGRAMMING LANGUAGE</h1>
