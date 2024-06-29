@@ -362,6 +362,24 @@
       height="80"
     />
   </a>
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg"
+      alt="jenkins"
+      width="80"
+      height="80"
+    />
+</a>
+<a href="https://www.sonarqube.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg"
+      alt="sonarqube"
+      width="80"
+      height="80"
+    />
+</a>
+
+
 </p>
 <h2 align="left">📍 Framework</h2>
 <p>
