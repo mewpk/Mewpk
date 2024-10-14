@@ -37,6 +37,10 @@ body {
     z-index: 0;
 }
 
+.content-wrapper {
+    position: relative;
+    z-index: 1;
+}
 /* Hero Content */
 .hero-content {
     display: flex;
@@ -50,12 +54,14 @@ body {
     width: 100vw; /* Ensures it fits within the viewport */
     min-height: 100vh;
 }
+.socials a{
+    font-size: 30px;
+    color :black;
+    margin: 0 10px;
+}
 
 /* Responsive Hero Content Adjustments */
 @media (max-width: 550px) {
-    .hero-content {
-        margin-top: 20vh;
-    }
     .hero-content h1 {
         font-size: 1.8rem;
     }
@@ -65,18 +71,13 @@ body {
 }
 
 @media (max-width: 500px) {
-    .hero-content {
-        margin-top: 30vh;
-    }
     .hero-content h1 {
         font-size: 1.6rem;
     }
 }
 
 @media (max-width: 400px) {
-    .hero-content {
-        margin-top: 40vh;
-    }
+
     .hero-content h1 {
         font-size: 1.4rem;
     }
