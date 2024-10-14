@@ -13,7 +13,7 @@
 <h1 align="center">
    <a href="https://www.instagram.com/mew_pkk/" target="_blank" >
     <img
-      src="https://www.mmthailand.com/wp-content/uploads/2020/04/ig-icon.png"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"
       alt="instagram"
       width="40"
       height="40"

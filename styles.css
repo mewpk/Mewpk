@@ -1,0 +1,197 @@
+/* Global Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    scroll-behavior: smooth;
+}
+
+body {
+    background: linear-gradient(135deg, #6b11cb, #2575fc);
+    color: #f5f5f5;
+    overflow-x: hidden;
+    min-height: 100vh; /* Ensures proper fit on smaller screens */
+}
+
+/* Hero Section */
+.hero {
+    position: relative;
+    height: 100vh; /* Adjusted for better scaling */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background: linear-gradient(135deg, rgba(107, 17, 203, 0.5), rgba(37, 117, 252, 0.5));
+    overflow: hidden;
+}
+
+/* Particle Background */
+#particles-js {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%; /* Adjusted to prevent overflow */
+    height: 100%; /* Scales with viewport */
+    z-index: 0;
+}
+
+/* Hero Content */
+.hero-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    color: white;
+    animation: fadeIn 2s ease-in-out;
+    text-align: center;
+    width: 100vw; /* Ensures it fits within the viewport */
+    min-height: 100vh;
+}
+
+/* Responsive Hero Content Adjustments */
+@media (max-width: 550px) {
+    .hero-content {
+        margin-top: 20vh;
+    }
+    .hero-content h1 {
+        font-size: 1.8rem;
+    }
+    .socials a {
+        font-size: 30px;
+    }
+}
+
+@media (max-width: 500px) {
+    .hero-content {
+        margin-top: 30vh;
+    }
+    .hero-content h1 {
+        font-size: 1.6rem;
+    }
+}
+
+@media (max-width: 400px) {
+    .hero-content {
+        margin-top: 40vh;
+    }
+    .hero-content h1 {
+        font-size: 1.4rem;
+    }
+}
+
+/* Section Styles */
+.section {
+    padding: 40px 20px; /* Adjusted for mobile */
+    text-align: center;
+}
+
+.section h2 {
+    background-color: #2d3142;
+    width: fit-content;
+    margin: 0 auto;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: #f5f5f5;
+}
+
+/* Skills Grid */
+.skills-grid {
+    display: flex;
+    gap: 30px;
+    padding: 20px; /* Adjusted for smaller screens */
+    flex-wrap: wrap; /* Ensures better layout on smaller screens */
+    justify-content: center;
+}
+
+/* Mobile View for Skills Grid */
+@media (max-width: 900px) {
+    .skills-grid {
+        flex-direction: column;
+        gap: 20px;
+    }
+}
+
+.card {
+    background-color: #2d3142;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s, box-shadow 0.3s;
+    width: 100%;
+    max-width: 400px; /* Ensures consistency across devices */
+    margin: 0 auto;
+}
+
+/* Icon Styles */
+.icons i {
+    width: 50px;
+    height: 50px;
+    margin: 8px;
+    font-size: 1.8rem;
+    color: #42a5f5;
+    transition: transform 0.3s, color 0.3s;
+}
+
+.icons i:hover {
+    transform: scale(1.2);
+    color: #90caf9;
+}
+
+/* Career Section */
+#career h2 {
+    margin-bottom: 40px;
+}
+
+/* Career Grid */
+.career-grid {
+    display: grid;
+    gap: 20px;
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+/* Back to Top Button */
+.back-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #42a5f5;
+    padding: 10px;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.back-to-top i {
+    color: white;
+    font-size: 20px;
+}
+
+.back-to-top:hover {
+    background-color: #1e88e5;
+}
+
+/* Footer */
+footer {
+    padding: 15px;
+    background-color: #2d3142;
+    color: #f5f5f5;
+    text-align: center;
+    font-size: 0.9rem;
+}
+
+/* Keyframes Animation */
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
